@@ -531,6 +531,9 @@ select {
   border: .5px solid var(--border-color);
   margin-bottom: 20px;
 }
+.settings input {
+  display: none;
+}
 
 .message input {
   width: 90%;
